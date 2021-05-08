@@ -38,7 +38,7 @@
     "mysql": "^2.15.0",
     "oracledb": "^4.0.1",
     "swagger-ui-express": "^4.1.2",
-    "typeorm": "^0.2.0"
+    "typeorm": "^0.2.25"
   },
   "scripts": {
     "start": "node dist/server.js",
